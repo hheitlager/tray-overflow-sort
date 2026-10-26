@@ -1,2 +1,1 @@
-# tray-overflow-sort
-Tray Overflow Sort
+**Tray Overflow Sort**: Experimental development, no approved canonical source yet
